@@ -9,8 +9,8 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>wallpost/base</module>
-    <module>wallpost/solucion</module>
+    <module>wallpost/mio</module>
+    <module>wallpost/resuelto</module>
   </modules>
 
   <properties>
