@@ -3,24 +3,24 @@
 *.oculto*
 
 # Basura de sistema
-.DS_Store
-Thumbs.db
+*.DS_Store*
+*Thumbs.db*
 
 # Artefactos compilados
 */target*
 
 # Carpeta de control de Git
-.git
+*.git*
 
 # Secretos/llaves accidentales
-*.key
-*.pem
-*.secret
-*.env
-*.gitignore
+*.key*
+*.pem*
+*.secret*
+*.env*
+*.gitignore*
 
 # Configuraciones de ambientes 
-*.vscode
-*.settings
-*.classpath
-*.project
+*.vscode*
+*.settings*
+*.classpath*
+*.project*
