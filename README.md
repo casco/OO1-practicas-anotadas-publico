@@ -1,13 +1,12 @@
 # Contenido
-* /ejercicios : contiene una carpeta por aca ejercicio con la estructura que se indica mas abajo.
-* /scripts : contiene scripts para generar la versión publica que se comparte con los estudiantes
+contiene una carpeta por aca ejercicio con la estructura que se indica mas abajo.
 
 # Estructura y contenido de las carpetas de ejercicios
 
-# Despliege 
+# Instrucciones para Eclipse 
 
 El script 
 
-# Cómo contribuir
+# Cómo actualizar
 
 ex
